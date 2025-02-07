@@ -15,6 +15,11 @@ Figure 2: Days Since the First Suspect vs Number of Cases of Albania.
 ![Screenshot 2025-02-07 185946](https://github.com/user-attachments/assets/8c12c4bd-9abb-4cee-aa35-631d550ff9c9)
 And So on...
 
+Figure 3: Days Since the First Suspect vs Number of Cases of overall world.
+
+![Screenshot 2025-02-07 211750](https://github.com/user-attachments/assets/2bdaa3ab-a9a9-46ee-b2b6-97a36bb63211)
+
+
 ## **Dataset:**
 
 The dataset, "covid_19_clean_complete.csv": Contains columns countries, confirmed, recovered, deaths, active, date, State, WHO Region, Latitude, Longitude.
