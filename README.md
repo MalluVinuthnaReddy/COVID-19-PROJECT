@@ -34,4 +34,4 @@ The dataset, "covid_19_clean_complete.csv": Contains columns countries, confirme
 **Pandas:** Used for data manipulation and analysis.                       
 **NumPy:** For numerical operations and array processing.  
 **Matplotlib:** For data visualization and creating charts.  
-**scikit-learn:** For feature scaling and transformations.
+**Scikit-learn:** For feature scaling and transformations.
